@@ -7,3 +7,4 @@ Coursework homework and projects for ECE474 Bayesian Machine Learning.
 * Logistic Regression
 * Bernoulli
 * Implementation on breast cancer data
+* Support Vector Machine
